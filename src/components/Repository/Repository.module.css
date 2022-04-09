@@ -1,0 +1,12 @@
+.repo-link {
+  text-decoration: none;
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.repo-link:hover {
+  color: #0000ff;
+}
